@@ -1,0 +1,7 @@
+blacklist:
+    permission-bypass: 'arcadian.blacklist.bypass'
+    anvil-rename-blacklist:
+        - 421
+
+messages:
+    error-item-blacklisted: '&cYou cannot rename this item'

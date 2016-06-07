@@ -1,0 +1,5 @@
+name: Aanvilblacklist
+version: 1.0
+main: uk.co.proxying.aAnvilBlacklist.AanvilBlacklist
+authors: [Proxying]
+description: Prevents certain items from being renamed via use of an anvil.
